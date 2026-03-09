@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HE609
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning python
+- 👀 I’m interested in vla
+- 🌱 I’m currently learning embodied ai.
 
 
 HE609/HE609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
